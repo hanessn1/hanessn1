@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagnik Barman
 - 👀 I’m interested in Computer Programming and Electronics
-- 🌱 I’m currently learning Java and Machine Learning
+- 🌱 I’m currently learning Javascript and Machine Learning
 - 📫 How to reach me sagnikskb0nyp437@gmail.com
 
 <!---
