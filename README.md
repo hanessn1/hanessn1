@@ -9,7 +9,6 @@
 - ♟ Fun fact: I like playing chess
 
 ### Connect with me:
-
 [<img align="center" alt="Sagnik | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram]
 [<img align="center" alt="Sagnik | Codechef" width="30px" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" />][CodeChef]
 [<img align="center" alt="Sagnik | Codeforces" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" />][Codeforces]
@@ -21,12 +20,9 @@
 [<img align="center" alt="Sagnik | Kaggle" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle]
 [<img align="center" alt="Sagnik | AtCoder" width="30px" src="https://img.atcoder.jp/assets/atcoder.png" />][Atcoder]
 [<img align="center" alt="Sagnik | Hackerearth" width="30px" src="https://i1.sndcdn.com/avatars-000187997749-n2xz2w-t500x500.jpg" />][Hackerearth]
-
-<br />
 <br />
 
 ### Languages and Tools:
-
 [<img align="center" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C]
 [<img align="center" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][C++]
 [<img align="center" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][Python]
@@ -44,7 +40,6 @@
 [<img align="center" alt="Pandas" width="40px" src="https://pandas.pydata.org/static/img/favicon_white.ico" />][Pandas]
 [<img align="center" alt="Matplotlib" width="40px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />][Matplotlib]
 [<img align="center" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode]
-
 <br />
 <br />
 
