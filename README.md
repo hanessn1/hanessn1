@@ -42,15 +42,15 @@
 [<img align="left" alt="Mediapipe" width="40px" src="https://viz.mediapipe.dev/logo.png" />][Mediapipe]
 [<img align="left" alt="Numpy" width="40px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />][Numpy]
 [<img align="left" alt="Pandas" width="40px" src="https://pandas.pydata.org/static/img/favicon_white.ico" />][Pandas]
-[<img align="left" alt="Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />][Matplotlib]
+[<img align="left" alt="Matplotlib" width="40px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />][Matplotlib]
 [<img align="left" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode]
 
 <br />
 <br />
 
-[<img align="left" alt="darthdaenerys's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darthdaenerys&theme=tokyonight" />]
+<img align="left" alt="darthdaenerys's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darthdaenerys&theme=tokyonight" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darthdaenerys&theme=tokyonight)](https://github.com/darthdaenerys)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darthdaenerys&theme=tokyonight)](https://github.com/darthdaenerys/github-readme-stats)
 
 [Instagram]:https://www.instagram.com/hannesn_n/
 [CodeChef]:https://www.codechef.com/users/darth_daenerys
