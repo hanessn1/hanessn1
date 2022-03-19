@@ -43,9 +43,10 @@
 <br />
 <br />
 
-<img align="center" alt="darthdaenerys's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darthdaenerys&theme=tokyonight" />
+<img align="center" alt="darthdaenerys's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darthdaenerys&show_icons=true&theme=merko" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darthdaenerys&theme=tokyonight)](https://github.com/darthdaenerys/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darthdaenerys&langs_count=10&show_icons=true&theme=merko)](https://github.com/darthdaenerys/github-readme-stats)
+[![Sagnik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@darthdaenerys&show_icons=true&theme=merko)](https://github.com/@darthdaenerys/github-readme-stats)
 
 [Instagram]:https://www.instagram.com/hannesn_n/
 [CodeChef]:https://www.codechef.com/users/darth_daenerys
