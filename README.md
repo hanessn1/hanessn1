@@ -51,7 +51,7 @@
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@darthdaenerys&show_icons=true&theme=merko)](https://github.com/@darthdaenerys/github-readme-stats)
 
 [Instagram]:https://www.instagram.com/hannesn_n/
-[CodeChef]:https://www.codechef.com/users/darth_daenerys
+[CodeChef]:https://www.codechef.com/users/darthdaenerys
 [Codeforces]:https://codeforces.com/profile/darth_daenerys
 [Hackerrank]:https://www.hackerrank.com/darthdaenerys
 [Leetcode]:https://leetcode.com/darth_daenerya/
