@@ -54,7 +54,7 @@
 [CodeChef]:https://www.codechef.com/users/darthdaenerys
 [Codeforces]:https://codeforces.com/profile/darth_daenerys
 [Hackerrank]:https://www.hackerrank.com/darthdaenerys
-[Leetcode]:https://leetcode.com/darth_daenerya/
+[Leetcode]:https://leetcode.com/darthDaenerys/
 [Lichess]:https://lichess.org/@/darth_Daenerys
 [GeeksforGeeks]:https://auth.geeksforgeeks.org/user/darthdaenerys/
 [Stackoverflow]:https://stackoverflow.com/users/18505260/sagnik-barman
