@@ -22,7 +22,7 @@
 [<img align="center" alt="Sagnik | Hackerearth" width="30px" src="https://i1.sndcdn.com/avatars-000187997749-n2xz2w-t500x500.jpg" />][Hackerearth] 
 <br />
 
-### Languages and Tools:
+### Languages, Frameworks and Tools:
 [<img align="center" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C] 
 [<img align="center" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][C++] 
 [<img align="center" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][Python] 
