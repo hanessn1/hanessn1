@@ -1,12 +1,16 @@
 # Hi there 👋, I'm Sagnik - aka [darthdaenerys]
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darthdaenerys&label=Profile%20views&color=0e75b6&style=flat" alt="darthdaenerys" /> </p>
+
 ## Student | Passionate Programmer !
-- 🔭 I'm currently working on Python and Javascript
+- 🔭 I'm currently working on **Python** and **Javascript**
 - 🌱 I’m currently learning everything 🤣
-- 👾 I'm interested in Computer Programming and Electronics
-- 💬 Ask me about C,C++ and Python
+- 👾 I'm interested in **Computer Programming** and **Electronics**
+- 💬 Ask me about **C**,**C++** and **Python**
 - 🥅 2022 Goals: Contribute more, learn more
-- ♟ Fun fact: I like playing chess
+- ♟ Fun fact: I like playing **Chess**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darthdaenerys" alt="darthdaenerys" /></a> </p>
 
 ### Connect with me:
 [<img align="center" alt="Sagnik | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram] 
@@ -47,8 +51,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=darthdaenerys&show_icons=true&theme=merko" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darthdaenerys&langs_count=10&show_icons=true&theme=merko)](https://github.com/darthdaenerys/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthdaenerys&show_icons=true&theme=merko" alt="darthdaenerys" /></p>
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@darthdaenerys&show_icons=true&theme=merko)](https://github.com/@darthdaenerys/github-readme-stats)
+
+## Contribution Graph
+![github graph](https://activity-graph.herokuapp.com/graph?username=darthdaenerys&bg_color=0a0f0b&color=2bd152&line=dfe857&point=a4efe4&area_color=34873c&area=true)
 
 [Instagram]:https://www.instagram.com/hannesn_n/
 [CodeChef]:https://www.codechef.com/users/darthdaenerys
