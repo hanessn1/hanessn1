@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darthdaenerys&label=Profile%20views&color=0e75b6&style=flat" alt="darthdaenerys" /> </p>
 
-## Student | Passionate Programmer !
+### Student | Passionate Programmer !
 - 🔭 I'm currently working on **Python** and **Javascript**
 - 🌱 I’m currently learning everything 🤣
 - 👾 I'm interested in **Computer Programming** and **Electronics**
