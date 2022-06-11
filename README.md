@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Sagnik - aka [darthdaenerys]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darthdaenerys&label=Profile%20views&color=0e75b6&style=flat" alt="darthdaenerys" /> </p>
-
 ### Student | Passionate Programmer !
 - 🔭 I'm currently working on **Python** and **Javascript**
 - 🌱 I’m currently learning everything 🤣
@@ -10,9 +8,7 @@
 - 🥅 2022 Goals: Contribute more, learn more
 - ♟ Fun fact: I like playing **Chess**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darthdaenerys" alt="darthdaenerys" /></a> </p>
-
-### Connect with me:
+## Connect with me:
 [<img align="center" alt="Sagnik | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][Instagram] 
 [<img align="center" alt="Sagnik | Codechef" width="30px" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" />][CodeChef] 
 [<img align="center" alt="Sagnik | Codeforces" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" />][Codeforces] 
@@ -22,7 +18,7 @@
 [<img align="center" alt="Sagnik | Kaggle" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle] 
 <br />
 
-### Languages, Frameworks and Tools:
+## Languages, Frameworks and Tools:
 [<img align="center" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C] 
 [<img align="center" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][C++] 
 [<img align="center" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][Python] 
@@ -40,7 +36,6 @@
 [<img align="center" alt="Matplotlib" width="40px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />][Matplotlib] 
 [<img align="center" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode] 
 <br />
-
 
 ## My Github and Other Stats🚀
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=darthdaenerys&show_icons=true&theme=merko" />
