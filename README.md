@@ -26,6 +26,7 @@
 [<img align="center" alt="mySQL" width="40px" src="https://static.cdnlogo.com/logos/m/47/mysql.svg" />][MySQL] 
 [<img align="center" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode] 
 [<img align="center" alt="Jupyternb" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][Jupyter]
+[<img align="center" alt="PyGame" width="40px" src="https://www.clipartmax.com/png/full/245-2450711_ski-slalom-pygame-icon.png" />][PyGame] 
 [<img align="center" alt="Arduino" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />][Arduino] 
 [<img align="center" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][PyTorch] 
 [<img align="center" alt="OpenCV" width="40px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black_.png" />][OpenCV] 
@@ -75,3 +76,4 @@
 [Matplotlib]:https://matplotlib.org/
 [jupyter]:https://jupyter.org/
 [darthdaenerys]:https://github.com/darthdaenerys
+[PyGame]:https://www.pygame.org/news
