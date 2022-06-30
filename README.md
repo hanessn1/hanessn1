@@ -22,6 +22,8 @@
 [<img align="center" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C] 
 [<img align="center" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][C++] 
 [<img align="center" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][Python] 
+[<img align="center" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][HTML] 
+[<img align="center" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][CSS] 
 [<img align="center" alt="Javascript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] 
 [<img align="center" alt="mySQL" width="40px" src="https://static.cdnlogo.com/logos/m/47/mysql.svg" />][MySQL] 
 [<img align="center" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode] 
@@ -77,3 +79,5 @@
 [jupyter]:https://jupyter.org/
 [darthdaenerys]:https://github.com/darthdaenerys
 [PyGame]:https://www.pygame.org/news
+[HTML]:https://www.w3schools.com/html/
+[CSS]:https://www.w3schools.com/css/
