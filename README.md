@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sagnik - aka [darthdaenerys]
 
 ### Student | Passionate Programmer !
-- 🔭 I'm currently working on **Python** and **Javascript**
+- 🔭 I'm currently working on **Web Developement** and **Machine Learning**
 - 🌱 I’m currently learning everything 🤣
 - 👾 I'm interested in **Computer Programming** and **Electronics**
 - 💬 Ask me about **C**,**C++** and **Python**
@@ -28,6 +28,7 @@
 [<img align="center" alt="mySQL" width="40px" src="https://static.cdnlogo.com/logos/m/47/mysql.svg" />][MySQL] 
 [<img align="center" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode] 
 [<img align="center" alt="Jupyternb" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][Jupyter]
+[<img align="center" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][Tensorflow]
 [<img align="center" alt="PyGame" width="40px" src="https://www.clipartmax.com/png/full/245-2450711_ski-slalom-pygame-icon.png" />][PyGame] 
 [<img align="center" alt="Arduino" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />][Arduino] 
 [<img align="center" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][PyTorch] 
@@ -81,3 +82,4 @@
 [PyGame]:https://www.pygame.org/news
 [HTML]:https://www.w3schools.com/html/
 [CSS]:https://www.w3schools.com/css/
+[Tensorflow]:https://www.tensorflow.org/
