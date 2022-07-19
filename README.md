@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sagnik - aka [darthdaenerys]
 
 ### Student | Passionate Programmer !
-- 🔭 I'm currently working on **Web Developement** and **Machine Learning**
+- 🔭 I'm currently working on **Generative Deep Learning**, **Reinforcement Learning** and **Web Developement**
 - 🌱 I’m currently learning everything 🤣
 - 👾 I'm interested in **Computer Programming** and **Electronics**
 - 💬 Ask me about **C**,**C++** and **Python**
