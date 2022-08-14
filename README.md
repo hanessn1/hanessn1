@@ -24,19 +24,20 @@
 [<img align="center" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][Python] 
 [<img align="center" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][HTML] 
 [<img align="center" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][CSS] 
-[<img align="center" alt="Javascript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] 
-[<img align="center" alt="mySQL" width="40px" src="https://static.cdnlogo.com/logos/m/47/mysql.svg" />][MySQL] 
-[<img align="center" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode] 
-[<img align="center" alt="Jupyternb" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][Jupyter]
+[<img align="center" alt="Javascript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] 
+[<img align="center" alt="mySQL" width="45px" src="https://static.cdnlogo.com/logos/m/47/mysql.svg" />][MySQL] 
+[<img align='center' alt='Sklearn' width='45px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][Sklearn]
 [<img align="center" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][Tensorflow]
 [<img align="center" alt="PyGame" width="40px" src="https://www.clipartmax.com/png/full/245-2450711_ski-slalom-pygame-icon.png" />][PyGame] 
 [<img align="center" alt="Arduino" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />][Arduino] 
 [<img align="center" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][PyTorch] 
-[<img align="center" alt="OpenCV" width="40px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black_.png" />][OpenCV] 
+[<img align="center" alt="OpenCV" width="35px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black_.png" />][OpenCV] 
 [<img align="center" alt="Mediapipe" width="40px" src="https://viz.mediapipe.dev/logo.png" />][Mediapipe] 
 [<img align="center" alt="Numpy" width="40px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />][Numpy] 
 [<img align="center" alt="Pandas" width="40px" src="https://pandas.pydata.org/static/img/favicon_white.ico" />][Pandas] 
 [<img align="center" alt="Matplotlib" width="40px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />][Matplotlib] 
+[<img align="center" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode] 
+[<img align="center" alt="Jupyternb" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][Jupyter]
 [<img align="center" alt="Photoshop" width="40px" src="https://images.squarespace-cdn.com/content/v1/5b7c0a6f3c3a532fdb5671ad/1555059076071-6DP513QT8M8UERJR58QZ/1200px-Adobe_Photoshop_CC_icon.svg.png" />][Photoshop] 
 [<img align="center" alt="PremierePro" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" />][PremierePro] 
 [<img align="center" alt="Audition" width="40px" src="https://cdn0.iconfinder.com/data/icons/logos-and-brands-adobe/512/18_Audition_Adobe_logo_logos-512.png" />][Audition] 
@@ -83,3 +84,4 @@
 [HTML]:https://www.w3schools.com/html/
 [CSS]:https://www.w3schools.com/css/
 [Tensorflow]:https://www.tensorflow.org/
+[Sklearn]:https://scikit-learn.org/
