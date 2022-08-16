@@ -47,10 +47,8 @@
 ## My Github and Other Stats🚀
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=darthdaenerys&show_icons=true&theme=merko" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darthdaenerys&langs_count=10&show_icons=true&theme=merko)](https://github.com/darthdaenerys/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darthdaenerys&show_icons=true&theme=merko&locale=en&layout=compact" alt="darthdaenerys" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthdaenerys&show_icons=true&theme=merko" alt="darthdaenerys" /></p>
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@darthdaenerys&show_icons=true&theme=merko)](https://github.com/@darthdaenerys/github-readme-stats)
 
 ## Contribution Graph
 ![github graph](https://activity-graph.herokuapp.com/graph?username=darthdaenerys&bg_color=0a0f0b&color=2bd152&line=dfe857&point=a4efe4&area_color=34873c&area=true)
