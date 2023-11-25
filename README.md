@@ -45,6 +45,7 @@
 <a href="https://stackoverflow.com/users/18505260/sagnik-barman" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="sagnik" height="35" width="30"/></a>
 <a href="https://codeforces.com/profile/darth_daenerys" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="sagnik" height="35" width="30"/></a>
 <a href="https://www.codechef.com/users/darthdaenerys" target="_blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="sagnik" height="35" width="35"/></a>
+<a href="https://leetcode.com/darthDaenerys/" target="_blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" height="35" width="35"/></a>
 <a href="https://auth.geeksforgeeks.org/user/darthdaenerys/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="sagnik" height="30" width="35"/></a>
 <a href="https://lichess.org/@/darth_Daenerys" target="_blank"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" alt="sagnik" height="30" width="30"/></a>
 </p>
