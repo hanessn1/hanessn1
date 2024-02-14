@@ -14,12 +14,15 @@
 
 ## 🏆 Languages, Frameworks and Tools
 
-[<img align="center" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C] 
-[<img align="center" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][C++] 
-[<img align="center" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][Python] 
-[<img align="center" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][HTML] 
-[<img align="center" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][CSS] 
-[<img align="center" alt="Javascript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] 
+[<img align="center" alt="C" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C] 
+[<img align="center" alt="C++" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][C++] 
+[<img align="center" alt="Python" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][Python] 
+[<img align="center" alt="HTML" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][HTML] 
+[<img align="center" alt="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][CSS] 
+[<img align="center" alt="Javascript" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] 
+[<img align="center" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>][Linux]
+[<img align="center" alt="Linux" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>][Git]
+[<img align="center" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/>][Bootstrap]
 [<img align="center" alt="mySQL" height="45px" src="https://static.cdnlogo.com/logos/m/47/mysql.svg" />][MySQL] 
 [<img align='center' alt='Sklearn' height='33px' width='45' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][Sklearn]
 [<img align="center" alt="Tensorflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][Tensorflow]
@@ -39,15 +42,17 @@
 ## 💁‍♂️ Connect with me
 
 <p align="left">
-<a href="https://www.instagram.com/hannesn_n/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sagnik-barman-509501242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/sagnikbarman" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="kaggle" height="30" width="30"/></a>
-<a href="https://stackoverflow.com/users/18505260/sagnik-barman" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" height="35" width="30"/></a>
-<a href="https://codeforces.com/profile/darth_daenerys" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="codeforces" height="35" width="30"/></a>
-<a href="https://www.codechef.com/users/darthdaenerys" target="_blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="codechef" height="35" width="35"/></a>
-<a href="https://leetcode.com/darthDaenerys/" target="_blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" height="35" width="35"/></a>
-<a href="https://auth.geeksforgeeks.org/user/darthdaenerys/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="gfg" height="30" width="35"/></a>
-<a href="https://lichess.org/@/darth_Daenerys" target="_blank"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" alt="lichess" height="30" width="30"/></a>
+<a href="https://www.instagram.com/hannesn_n/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" /></a>
+<a href="https://www.facebook.com/hanessn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" /></a>
+<a href="https://www.linkedin.com/in/sagnik-barman-509501242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" /></a>
+<a href="https://www.kaggle.com/sagnikbarman" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="kaggle" height="40" /></a>
+<a href="https://stackoverflow.com/users/18505260/sagnik-barman" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" height="40"/></a>
+<a href="https://codeforces.com/profile/darth_daenerys" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="codeforces" height="40"/></a>
+<a href="https://www.codechef.com/users/darthdaenerys" target="_blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="codechef" height="40"/></a>
+<a href="https://leetcode.com/darthDaenerys/" target="_blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" height="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/darthdaenerys/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="gfg" height="35" width="38"/></a>
+<a href="https://www.chess.com/member/darthdaenerys" target="_blank"><img align="center" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" alt="chess.com" height="40" /></a>
+<a href="https://lichess.org/@/darth_Daenerys" target="_blank"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" alt="lichess" height="40" /></a>
 </p>
 
 ## 🎪 My Github Stats
@@ -87,3 +92,6 @@
 [Sklearn]:https://scikit-learn.org/
 [LinkedIn]:https://www.linkedin.com/in/sagnik-barman-509501242/
 [Keras]:https://keras.io/
+[Linux]:https://www.linux.org/
+[Git]:https://git-scm.com/
+[Bootstrap]:https://getbootstrap.com/
