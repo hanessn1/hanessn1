@@ -60,10 +60,16 @@
 
 [![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darthdaenerys&theme=coral)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
+<div id="header" align="right">
+  <img src="https://komarev.com/ghpvc/?username=darthdaenerys&style=for-the-badge&color=red&abbreviated=true" alt=""/>
+</div>
 <br>
 
-[Instagram]:https://www.instagram.com/hannesn_n/
+[Instagram]:https://www.instagram.com/hanessn_/
 [CodeChef]:https://www.codechef.com/users/darthdaenerys
 [Codeforces]:https://codeforces.com/profile/darth_daenerys
 [Lichess]:https://lichess.org/@/darth_Daenerys
@@ -89,7 +95,7 @@
 [CSS]:https://www.w3schools.com/css/
 [Tensorflow]:https://www.tensorflow.org/
 [Sklearn]:https://scikit-learn.org/
-[LinkedIn]:https://www.linkedin.com/in/sagnik-barman-509501242/
+[LinkedIn]:https://www.linkedin.com/in/darthdaenerys
 [Keras]:https://keras.io/
 [Linux]:https://www.linux.org/
 [Git]:https://git-scm.com/
