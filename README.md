@@ -64,9 +64,6 @@
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<div id="header" align="right">
-  <img src="https://komarev.com/ghpvc/?username=darthdaenerys&style=for-the-badge&color=red&abbreviated=true" alt=""/>
-</div>
 <br>
 
 [Instagram]:https://www.instagram.com/hanessn_/
