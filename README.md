@@ -60,10 +60,6 @@
 
 [![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darthdaenerys&theme=coral)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 <br>
 
 [Instagram]:https://www.instagram.com/hanessn_/
