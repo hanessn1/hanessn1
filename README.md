@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Sagnik - aka [darthdaenerys]
-
-<h3 align="center">Student and a Passionate Programmer!</h3>
+Hi 👋
 
 🔭 I'm currently working on **Generative Deep Learning**, **Natural Language Processing** and **Transformers**
 
@@ -39,34 +37,34 @@
 ## 💁‍♂️ Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sagnik-barman-509501242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" /></a>
+<a href="https://www.linkedin.com/in/hanessn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" /></a>
 <a href="https://www.kaggle.com/sagnikbarman" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="kaggle" height="40" /></a>
 <a href="https://stackoverflow.com/users/18505260/sagnik-barman" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" height="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/darthdaenerys/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="gfg" height="35" width="38"/></a>
+<a href="https://auth.geeksforgeeks.org/user/hanesn/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="gfg" height="35" width="38"/></a>
 
 ## 🎪 My Github Stats
 
-<a href="github.com/darthdaenerys">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darthdaenerys&theme=maroongold" width="100%" alt="" />
+<a href="github.com/hanesn">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanesn&theme=maroongold" width="100%" alt="" />
 </a>
 
-<a href="github.com/darthdaenerys">
-<img src="https://github-readme-stats.vercel.app/api?username=darthdaenerys&show_icons=true&theme=maroongold&hide_border=true" width="60%" alt="darthdaenerys" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darthdaenerys&langs_count=8&count_private=true&layout=compact&theme=maroongold&hide_border=true" width="39.9%" alt=""/>
+<a href="github.com/hanesn">
+<img src="https://github-readme-stats.vercel.app/api?username=hanesn&show_icons=true&theme=maroongold&hide_border=true" width="60%" alt="hanesn" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanesn&langs_count=8&count_private=true&layout=compact&theme=maroongold&hide_border=true" width="39.9%" alt=""/>
 </a>
 
-<a href="github.com/darthdaenerys">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darthdaenerys&theme=maroongold&utcOffset=8" width="39.7%" alt="darthdaenerys" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=darthdaenerys&theme=maroongold&hide_border=true" width="59.3%" alt=""/>
+<a href="github.com/hanesn">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanesn&theme=maroongold&utcOffset=8" width="39.7%" alt="hanesn" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=hanesn&theme=maroongold&hide_border=true" width="59.3%" alt=""/>
 </a>
 
-[![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darthdaenerys&theme=coral)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanesn&theme=coral)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 [Instagram]:https://www.instagram.com/hanessn_/
-[CodeChef]:https://www.codechef.com/users/darthdaenerys
+[CodeChef]:https://www.codechef.com/users/hanesn
 [Codeforces]:https://codeforces.com/profile/darth_daenerys
 [Lichess]:https://lichess.org/@/darth_Daenerys
-[GeeksforGeeks]:https://auth.geeksforgeeks.org/user/darthdaenerys/
+[GeeksforGeeks]:https://auth.geeksforgeeks.org/user/hanesn/
 [Stackoverflow]:https://stackoverflow.com/users/18505260/sagnik-barman
 [kaggle]:https://www.kaggle.com/sagnikbarman
 [C]:https://www.javatpoint.com/c-programming-language-tutorial
@@ -82,13 +80,13 @@
 [Pandas]:https://pandas.pydata.org/
 [Matplotlib]:https://matplotlib.org/
 [jupyter]:https://jupyter.org/
-[darthdaenerys]:https://github.com/darthdaenerys
+[hanesn]:https://github.com/hanesn
 [PyGame]:https://www.pygame.org/news
 [HTML]:https://www.w3schools.com/html/
 [CSS]:https://www.w3schools.com/css/
 [Tensorflow]:https://www.tensorflow.org/
 [Sklearn]:https://scikit-learn.org/
-[LinkedIn]:https://www.linkedin.com/in/darthdaenerys
+[LinkedIn]:https://www.linkedin.com/in/hanesn
 [Keras]:https://keras.io/
 [Linux]:https://www.linux.org/
 [Git]:https://git-scm.com/
