@@ -34,14 +34,6 @@ Hi 👋
 [<img align="center" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][VSCode] 
 [<img align="center" alt="Jupyternb" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][Jupyter]
 
-## 💁‍♂️ Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/hanessn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" /></a>
-<a href="https://www.kaggle.com/sagnikbarman" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="kaggle" height="40" /></a>
-<a href="https://stackoverflow.com/users/18505260/sagnik-barman" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" height="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/hanesn/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="gfg" height="35" width="38"/></a>
-
 ## 🎪 My Github Stats
 
 <a href="github.com/hanesn">
@@ -60,13 +52,6 @@ Hi 👋
 
 <br>
 
-[Instagram]:https://www.instagram.com/hanessn_/
-[CodeChef]:https://www.codechef.com/users/hanesn
-[Codeforces]:https://codeforces.com/profile/darth_daenerys
-[Lichess]:https://lichess.org/@/darth_Daenerys
-[GeeksforGeeks]:https://auth.geeksforgeeks.org/user/hanesn/
-[Stackoverflow]:https://stackoverflow.com/users/18505260/sagnik-barman
-[kaggle]:https://www.kaggle.com/sagnikbarman
 [C]:https://www.javatpoint.com/c-programming-language-tutorial
 [C++]:https://www.w3schools.com/CPP/default.asp
 [Python]:https://www.python.org/
@@ -86,7 +71,6 @@ Hi 👋
 [CSS]:https://www.w3schools.com/css/
 [Tensorflow]:https://www.tensorflow.org/
 [Sklearn]:https://scikit-learn.org/
-[LinkedIn]:https://www.linkedin.com/in/hanesn
 [Keras]:https://keras.io/
 [Linux]:https://www.linux.org/
 [Git]:https://git-scm.com/
