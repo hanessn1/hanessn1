@@ -1,5 +1,5 @@
 <div align="left">
-  <h2>Hey there! I'm Sagnik 👋</h2>
+  <h2>Hey there👋</h2>
 
   <a href="https://github.com/hanessn1">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&width=620&lines=AI+%26+Deep+Learning+Engineer;Transformer+Architectures+%26+NLP;Autonomous+Agents+%26+Intelligent+Systems;Competitive+Programming+%26+Algorithms" alt="Typing SVG" />
